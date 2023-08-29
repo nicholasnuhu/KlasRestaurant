@@ -1,0 +1,15 @@
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\bin\Debug\net6.0\KlasRestaurant.Application.deps.json
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\bin\Debug\net6.0\KlasRestaurant.Application.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\bin\Debug\net6.0\KlasRestaurant.Application.pdb
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\bin\Debug\net6.0\KlasRestaurant.Domain.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\bin\Debug\net6.0\KlasRestaurant.Domain.pdb
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.csproj.CopyComplete
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\refint\KlasRestaurant.Application.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\KlasRestaurant.Application.pdb
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Application\obj\Debug\net6.0\ref\KlasRestaurant.Application.dll

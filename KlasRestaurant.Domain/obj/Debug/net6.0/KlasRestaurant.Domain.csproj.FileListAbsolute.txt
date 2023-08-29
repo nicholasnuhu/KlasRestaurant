@@ -1,0 +1,12 @@
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\bin\Debug\net6.0\KlasRestaurant.Domain.deps.json
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\bin\Debug\net6.0\KlasRestaurant.Domain.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\bin\Debug\net6.0\KlasRestaurant.Domain.pdb
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\KlasRestaurant.Domain.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\KlasRestaurant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\KlasRestaurant.Domain.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\KlasRestaurant.Domain.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\KlasRestaurant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\KlasRestaurant.Domain.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\refint\KlasRestaurant.Domain.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\KlasRestaurant.Domain.pdb
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Domain\obj\Debug\net6.0\ref\KlasRestaurant.Domain.dll

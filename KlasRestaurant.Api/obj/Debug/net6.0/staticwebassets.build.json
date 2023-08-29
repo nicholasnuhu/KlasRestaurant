@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "drNLiVXjC8chVY1rfF+vwd2XHaG9gwbFv9uMzAnax9k=",
+  "Source": "KlasRestaurant.Api",
+  "BasePath": "_content/KlasRestaurant.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
