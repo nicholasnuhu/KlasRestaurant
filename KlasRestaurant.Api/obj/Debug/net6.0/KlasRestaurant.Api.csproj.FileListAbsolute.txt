@@ -30,3 +30,13 @@ C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRest
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\obj\Debug\net6.0\ref\KlasRestaurant.Api.dll
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\NLog.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
