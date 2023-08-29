@@ -10,15 +10,33 @@
         "dependencies": {
           "KlasRestaurant.Application": "1.0.0",
           "KlasRestaurant.Contract": "1.0.0",
-          "KlasRestaurant.Infrastructure": "1.0.0"
+          "KlasRestaurant.Infrastructure": "1.0.0",
+          "NLog": "5.2.3"
         },
         "runtime": {
           "KlasRestaurant.Api.dll": {}
         }
       },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "NLog/5.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.2.3.1999"
+          }
+        }
+      },
       "KlasRestaurant.Application/1.0.0": {
         "dependencies": {
-          "KlasRestaurant.Domain": "1.0.0"
+          "KlasRestaurant.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "runtime": {
           "KlasRestaurant.Application.dll": {}
@@ -36,7 +54,9 @@
       },
       "KlasRestaurant.Infrastructure/1.0.0": {
         "dependencies": {
-          "KlasRestaurant.Application": "1.0.0"
+          "KlasRestaurant.Application": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "NLog": "5.2.3"
         },
         "runtime": {
           "KlasRestaurant.Infrastructure.dll": {}
@@ -49,6 +69,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    },
+    "NLog/5.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rHTNRtQF5qYqLutSR9ldUWXglKym/KA1R6GKw4JtDvza8i5+kgfmeKH75Ccn1noeJIOjHLXorphMxKk3EiN2tg==",
+      "path": "nlog/5.2.3",
+      "hashPath": "nlog.5.2.3.nupkg.sha512"
     },
     "KlasRestaurant.Application/1.0.0": {
       "type": "project",

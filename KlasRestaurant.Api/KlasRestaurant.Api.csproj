@@ -12,4 +12,8 @@
     <ProjectReference Include="..\KlasRestaurant.Infrastructure\KlasRestaurant.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="5.2.3" />
+  </ItemGroup>
+
 </Project>

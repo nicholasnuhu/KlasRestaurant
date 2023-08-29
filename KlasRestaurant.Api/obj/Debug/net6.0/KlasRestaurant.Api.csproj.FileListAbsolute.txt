@@ -28,3 +28,5 @@ C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRest
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\obj\Debug\net6.0\KlasRestaurant.Api.pdb
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\obj\Debug\net6.0\KlasRestaurant.Api.genruntimeconfig.cache
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\obj\Debug\net6.0\ref\KlasRestaurant.Api.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\NLog.dll

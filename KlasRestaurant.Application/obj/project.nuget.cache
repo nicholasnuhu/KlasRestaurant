@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EeFV/St27LBQlWDY6cyc88VBysCLoO5nS5t5QTSjk/25ixOHPPZKjMOXkKmgxCfXV3dcFTRwWypJYLpmwxO6lw==",
+  "dgSpecHash": "OYaWYZdlvUls57SbwP9h8An3lUQhG1dxPACdfVft4s76de6qafazxPj82ZJgdFdP+ctP7IUyS0OeYhFH6ZnJtA==",
   "success": true,
   "projectFilePath": "C:\\Users\\solan\\OneDrive\\Desktop\\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\\KlasRestaurant\\KlasRestaurant.Application\\KlasRestaurant.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\solan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
