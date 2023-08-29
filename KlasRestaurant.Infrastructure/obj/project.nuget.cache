@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/PE0EOuXHa2ox8UHECaMQrq3IHGUy0aUZTRWUMNao+FRFdCkBw2Okl757XgVTngJk3DW/Z15UML/MWwR+fqT7w==",
+  "dgSpecHash": "jMnF2Blgl9ajbHurwbEQF/5YUzEf7weuraLihLaLDcsVovl+yUBJyoXMSoQJn6tjY/6hepXrl1xLWhz9tLkgeQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\solan\\OneDrive\\Desktop\\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\\KlasRestaurant\\KlasRestaurant.Infrastructure\\KlasRestaurant.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\solan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\solan\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\solan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\solan\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "C:\\Users\\solan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

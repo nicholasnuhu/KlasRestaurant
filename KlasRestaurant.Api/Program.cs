@@ -6,7 +6,7 @@ using FoodApplication.Api;
 var builder = WebApplication.CreateBuilder(args);
 LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 {
-    builder.Services.AddInfrastructure()
+    builder.Services.AddInfrastructure(builder.Configuration)
                     .AddApplication()
                     .AddApi();
 }
