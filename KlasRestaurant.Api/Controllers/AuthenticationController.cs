@@ -1,8 +1,8 @@
-using FoodApplication.Application.Services.Authentication;
-using FoodApplication.Contracts.Authentications;
+using KlasRestaurant.Application.Services.Authentication;
+using KlasRestaurant.Contracts.Authentications;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FoodApplication.Api.Controllers;
+namespace KlasRestaurant.Api.Controllers;
 
 
 [Route("auth")]

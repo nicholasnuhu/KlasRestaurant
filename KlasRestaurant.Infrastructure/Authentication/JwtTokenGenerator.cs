@@ -1,13 +1,13 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using FoodApplication.Application.Commons.Interface.Authentication;
-using FoodApplication.Application.Commons.Interface.Services;
-using FoodApplication.Domain.Entities;
+using KlasRestaurant.Application.Commons.Interface.Authentication;
+using KlasRestaurant.Application.Commons.Interface.Services;
+using KlasRestaurant.Domain.Entities;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
-namespace FoodApplication.Infrastructure.Authentication;
+namespace KlasRestaurant.Infrastructure.Authentication;
 
 public class JwtTokenGenerator : IJwtTokenGenerator
 {

@@ -1,7 +1,7 @@
 using NLog;
-using FoodApplication.Infrastructure;
-using FoodApplication.Application;
-using FoodApplication.Api;
+using KlasRestaurant.Infrastructure;
+using KlasRestaurant.Application;
+using KlasRestaurant.Api;
 
 var builder = WebApplication.CreateBuilder(args);
 LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));

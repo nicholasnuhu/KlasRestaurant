@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FoodApplication.Api.Controllers;
+namespace KlasRestaurant.Api.Controllers;
 
 
 public class ErrorController : ControllerBase

@@ -1,6 +1,6 @@
-using FoodApplication.Application.Commons.Interface.Services;
+using KlasRestaurant.Application.Commons.Interface.Services;
 
-namespace FoodApplication.Infrastructure.Service;
+namespace KlasRestaurant.Infrastructure.Service;
 
 public class DateTimeProvider : IDateTimeProvider
 {

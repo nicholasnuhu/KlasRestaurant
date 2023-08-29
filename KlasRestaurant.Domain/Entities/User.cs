@@ -1,4 +1,4 @@
-namespace FoodApplication.Domain.Entities;
+namespace KlasRestaurant.Domain.Entities;
 
     public class User
     {

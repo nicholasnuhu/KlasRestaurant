@@ -1,4 +1,4 @@
-namespace FoodApplication.Contracts.Authentications;
+namespace KlasRestaurant.Contracts.Authentications;
 
 public record LoginRequest(
     string Email,

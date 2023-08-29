@@ -1,6 +1,6 @@
-using FoodApplication.Domain.Entities;
+using KlasRestaurant.Domain.Entities;
 
-namespace FoodApplication.Application.Commons.Interface.Authentication
+namespace KlasRestaurant.Application.Commons.Interface.Authentication
 {
     public interface IJwtTokenGenerator
     {

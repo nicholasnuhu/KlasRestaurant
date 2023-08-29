@@ -1,4 +1,4 @@
-namespace FoodApplication.Infrastructure.Authentication;
+namespace KlasRestaurant.Infrastructure.Authentication;
 
 public class JwtSettings
 {

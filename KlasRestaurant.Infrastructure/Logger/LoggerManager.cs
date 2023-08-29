@@ -1,7 +1,7 @@
 using KlasRestaurant.Application.Common.Interface.Logger;
 using NLog;
 
-namespace FoodApplication.Infrastructure.Logger;
+namespace KlasRestaurant.Infrastructure.Logger;
 public class LoggerManager : ILoggerManager
 {
     private static ILogger logger = LogManager.GetCurrentClassLogger();

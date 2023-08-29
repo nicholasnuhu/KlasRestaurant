@@ -1,15 +1,15 @@
-using FoodApplication.Application.Commons.Interface.Authentication;
-using FoodApplication.Application.Commons.Interface.Persistence;
-using FoodApplication.Application.Commons.Interface.Services;
-using FoodApplication.Infrastructure.Authentication;
-using FoodApplication.Infrastructure.Logger;
-using FoodApplication.Infrastructure.Persistence;
-using FoodApplication.Infrastructure.Service;
+using KlasRestaurant.Application.Commons.Interface.Authentication;
+using KlasRestaurant.Application.Commons.Interface.Persistence;
+using KlasRestaurant.Application.Commons.Interface.Services;
+using KlasRestaurant.Infrastructure.Authentication;
+using KlasRestaurant.Infrastructure.Logger;
+using KlasRestaurant.Infrastructure.Persistence;
+using KlasRestaurant.Infrastructure.Service;
 using KlasRestaurant.Application.Common.Interface.Logger;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace FoodApplication.Infrastructure
+namespace KlasRestaurant.Infrastructure
 {
     public static class DependencyInjection
     {

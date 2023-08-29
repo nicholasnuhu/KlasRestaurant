@@ -1,6 +1,6 @@
-using FoodApplication.Domain.Entities;
+using KlasRestaurant.Domain.Entities;
 
-namespace FoodApplication.Application.Commons.Interface.Persistence;
+namespace KlasRestaurant.Application.Commons.Interface.Persistence;
 
     public interface IUserRepository
     {

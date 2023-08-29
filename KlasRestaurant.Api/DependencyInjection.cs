@@ -1,8 +1,8 @@
 
-using FoodApplication.Api.Commons.Errors;
+using KlasRestaurant.Api.Commons.Errors;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 
-namespace FoodApplication.Api;
+namespace KlasRestaurant.Api;
 
 public static class DependencyInjection
 {

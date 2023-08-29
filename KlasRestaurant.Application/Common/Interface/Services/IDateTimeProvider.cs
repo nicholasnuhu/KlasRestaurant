@@ -1,4 +1,4 @@
-namespace FoodApplication.Application.Commons.Interface.Services;
+namespace KlasRestaurant.Application.Commons.Interface.Services;
 
 public interface IDateTimeProvider
 {

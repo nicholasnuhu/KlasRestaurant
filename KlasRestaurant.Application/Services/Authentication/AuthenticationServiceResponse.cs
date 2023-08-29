@@ -1,6 +1,6 @@
-using FoodApplication.Domain.Entities;
+using KlasRestaurant.Domain.Entities;
 
-namespace FoodApplication.Application.Services.Authentication;
+namespace KlasRestaurant.Application.Services.Authentication;
 
 public record AuthenticationServiceResponse(
     User User,

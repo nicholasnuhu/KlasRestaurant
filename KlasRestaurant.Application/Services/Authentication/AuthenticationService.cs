@@ -1,8 +1,8 @@
-using FoodApplication.Application.Commons.Interface.Authentication;
-using FoodApplication.Application.Commons.Interface.Persistence;
-using FoodApplication.Domain.Entities;
+using KlasRestaurant.Application.Commons.Interface.Authentication;
+using KlasRestaurant.Application.Commons.Interface.Persistence;
+using KlasRestaurant.Domain.Entities;
 
-namespace FoodApplication.Application.Services.Authentication;
+namespace KlasRestaurant.Application.Services.Authentication;
 
 public class AuthenticationService : IAuthenticationService
 {

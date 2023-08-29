@@ -1,7 +1,7 @@
-using FoodApplication.Application.Commons.Interface.Persistence;
-using FoodApplication.Domain.Entities;
+using KlasRestaurant.Application.Commons.Interface.Persistence;
+using KlasRestaurant.Domain.Entities;
 
-namespace FoodApplication.Infrastructure.Persistence;
+namespace KlasRestaurant.Infrastructure.Persistence;
 
 public class UserRepository : IUserRepository
 {

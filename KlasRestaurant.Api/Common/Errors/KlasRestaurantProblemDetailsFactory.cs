@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Options;
 
-namespace FoodApplication.Api.Commons.Errors;
+namespace KlasRestaurant.Api.Commons.Errors;
 
 // This class is used to create ProblemDetails objects and was copied from
 //the Microsoft.AspNetCore.Mvc.Infrastructure.DefaultProblemDetailsFactory class

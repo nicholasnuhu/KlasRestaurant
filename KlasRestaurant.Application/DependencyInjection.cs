@@ -1,7 +1,7 @@
-using FoodApplication.Application.Services.Authentication;
+using KlasRestaurant.Application.Services.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace FoodApplication.Application
+namespace KlasRestaurant.Application
 {
     public static class DependencyInjection
     {

@@ -1,4 +1,4 @@
-namespace FoodApplication.Application.Services.Authentication;
+namespace KlasRestaurant.Application.Services.Authentication;
 
     public interface IAuthenticationService
     {
