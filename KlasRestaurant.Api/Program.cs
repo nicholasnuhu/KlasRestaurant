@@ -14,6 +14,8 @@ LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentD
 
 var app = builder.Build();
 {
+    app.UseExceptionHandler("/error");
+
     app.UseHttpsRedirection();
 
     app.MapControllers();
