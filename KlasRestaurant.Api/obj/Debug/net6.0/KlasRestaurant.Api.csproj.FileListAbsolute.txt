@@ -42,3 +42,4 @@ C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRest
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\nlog.config
+C:\Users\solan\OneDrive\Desktop\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\KlasRestaurant\KlasRestaurant.Api\bin\Debug\net6.0\ErrorOr.dll

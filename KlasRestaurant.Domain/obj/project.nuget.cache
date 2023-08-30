@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGPM5Nr83sQq9i7+fvTvUktvIF/maiZbo+7E5Pi/WhQTkAJtKjMG7SLjd8OcMreXvTmom+3rB3OdkYMzENuI/w==",
+  "dgSpecHash": "zJ/Ta1FrzmJtZCAzicBOk5fHIXUKTjttAKSF7IR76IgA9ZzvYGNZT4pv6FOl97dh79V9qEx8WXuWs/z7OMbfgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\solan\\OneDrive\\Desktop\\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\\KlasRestaurant\\KlasRestaurant.Domain\\KlasRestaurant.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\solan\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

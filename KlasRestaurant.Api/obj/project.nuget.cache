@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XxpJoQAq8Fx4yB9+wrpx5stnTXV7hC8Ce4WKubM97G5K4Hvk18Jynk0se3SX+0w44o0LeEKmvRZ3PoLAeEyuwg==",
+  "dgSpecHash": "o5KZk8KdubV31vknOj1ZaVz0y5jA4T/h0Rby6bIMw/cPpcrxPCj7Ssekc1R26EmW8oTxafHPStiA21A8SK32YQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\solan\\OneDrive\\Desktop\\CLEAN ARCHITECTURE, DDD & CQRS PRACTICE\\KlasRestaurant\\KlasRestaurant.Api\\KlasRestaurant.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\solan\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\solan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\solan\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\solan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
