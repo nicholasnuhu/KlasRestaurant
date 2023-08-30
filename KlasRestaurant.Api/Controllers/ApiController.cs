@@ -1,5 +1,6 @@
 
 using ErrorOr;
+using KlasRestaurant.Api.Commons.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KlasRestaurant.Api.Controllers;
@@ -12,6 +13,8 @@ public class ApiController : ControllerBase
 {
     protected IActionResult Problem(List<Error> errors)
     {
+        //Adding custom properties to the problem details response
+        HttpContext.Items[HttpContextItemKeys.Errors] = errors;
         /*this is an inteermediate implementation as the there is not yet a model validation
           in our service at this point
         */
